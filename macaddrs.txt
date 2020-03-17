@@ -1,0 +1,6 @@
+30:fd:38:03:e9:01 Google-Home-Mini
+d8:a0:1d:51:55:20 ESP32-M5StickC
+78:4f:43:68:1e:b0 MBPr
+
+
+
